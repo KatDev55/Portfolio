@@ -1,0 +1,132 @@
+
+
+export const frontendSkills = [
+    {
+        id:1,
+        name:"React",
+        icon:""
+    },
+    {
+        id:2,
+        name:"Tailwind CSS",
+        icon:""
+    },
+    {
+        id:3,
+        name:"JavaScript",
+        icon:""
+    },
+    {
+        id:4,
+        name:"Git",
+        icon:""
+    },
+    {
+        id:5,
+        name:"Framer Motion",
+        icon:""
+    },
+    {
+        id:6,
+        name:"Next.js",
+        icon:""
+    },
+    {
+        id:7,
+        name:"TypeScript",
+        icon:""
+    },
+    {
+        id:8,
+        name:"Figma",
+        icon:""
+    },
+]
+
+export const backendSkills = [
+    {
+        id:8,
+        name:"Node.js",
+        icon:""
+    },
+    {
+        id:9,
+        name:"Express.js",
+        icon:""
+    },
+    {
+        id:10,
+        name:"Python",
+        icon:""
+    },
+    {
+        id:10,
+        name:"Django",
+        icon:""},
+    {
+        id:11,
+        name:"PostgreSQL",
+        icon:""
+    },
+    {
+        id:12,
+        name:"Docker",
+        icon:""
+    },
+    {
+        id:13,
+        name:"MySQL",
+        icon:""
+    }
+]
+
+export const toolsSkills = [
+    {
+        id:14,
+        name:"Github",
+        icon:""
+    },
+    {
+        id:15,
+        name:"Framer Motion",
+        icon:""
+    },
+    {
+        id:16,
+        name:"Next.js",
+        icon:""
+    },
+    {
+        id:17,
+        name:"TypeScript",
+        icon:""
+    },
+    {
+        id:18,
+        name:"Figma",
+        icon:""
+    },
+]
+
+export const databaseSkills = [
+    {
+        id:14,
+        name:"PostgreSQL",
+        icon:""
+    },
+    {
+        id:15,
+        name:"MySQL",
+        icon:""
+    },
+    {
+        id:16,
+        name:"SQLite",
+        icon:""
+    },
+    {
+        id:17,
+        name:"Firebase",
+        icon:""
+    },
+]
